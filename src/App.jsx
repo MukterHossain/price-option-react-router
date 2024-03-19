@@ -5,6 +5,7 @@ import './App.css'
 import NavBar from './componets/NavBar/NavBar'
 import PriceOptions from './componets/PriceOptions/PriceOptions'
 import LineChart from './componets/LineChart/LineChart'
+import Phones from './componets/Phones/Phones'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
 
       <PriceOptions></PriceOptions>
       <LineChart></LineChart>
+      <Phones></Phones>
 
 
     </>
